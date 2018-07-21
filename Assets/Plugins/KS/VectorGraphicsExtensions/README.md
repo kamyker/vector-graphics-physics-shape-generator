@@ -1,0 +1,1 @@
+Click KS/Assets/VectorGraphicsExtensions/GeneratePhysicsShape
